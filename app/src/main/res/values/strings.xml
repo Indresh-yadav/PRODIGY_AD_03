@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+    <string name="_0_00_07">0:00:07</string>
+    <string name="cd" />
+</resources>
